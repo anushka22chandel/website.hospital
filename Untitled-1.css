@@ -1,0 +1,13 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.col
+{
+    background-color: aqua;
+}
+.col-1
+{
+    background-color: azure;
+}
